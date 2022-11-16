@@ -24,3 +24,6 @@ Customers should also click on the Join meeting button on their chat to join the
 
 ![image3](/assets/jitsi_lc_3.png)
 ![image4](/assets/jitsi_lc_4.png)
+
+
+#### Jitsi Meet Tutorial - https://jitsi.github.io/handbook/docs/user-guide/
