@@ -1,6 +1,6 @@
-## Jitsi meetings app for Livechat
+## Jitsi meetings app for LiveChat
 
-By adding Jitsi meetings to Livechat your agents will be able to start voice and video calls or screen sharing sessions with your customers right in the chat.
+By adding Jitsi meetings to LiveChat your agents will be able to start voice and video calls or screen sharing sessions with your customers right in the chat.
 
 Jitsi meetings can be enabled by just installing the app from the marketplace, it does not require login or any other settings. 
 Jitsi Meet is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.
